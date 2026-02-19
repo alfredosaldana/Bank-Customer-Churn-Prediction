@@ -381,4 +381,5 @@ Tableau dashboard	Business communication, BI tools
 
 This README	Technical writing and documentation
 📄 License
+MIT License — feel free to use, adapt, and share with attribution.
 Dataset sourced from Kaggle under its respective terms of use.
