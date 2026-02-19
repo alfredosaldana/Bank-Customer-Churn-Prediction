@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (keep the original data, ignore generated files)
+# Customer-Churn-Records.csv - KEEP THIS (original dataset)
+df_cleaned.csv
+data_processed.csv
+churn_predictions_output.csv
+
+# Model files (PKL files are too large for GitHub)
+*.pkl
+*.joblib
+*.h5
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Streamlit cache
+.streamlit/
+
+# Python distribution
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
