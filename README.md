@@ -46,7 +46,7 @@ bank-customer-churn/
 
 ## 📊 Dataset
 
-**Source:** `Customer-Churn-Records.csv`  
+**Source:** `Customer-Churn-Records.csv`  / URL: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
 **Shape:** 10,000 rows × 18 columns  
 **Target variable:** `Exited` (1 = churned, 0 = stayed)
 
